@@ -1,0 +1,2 @@
+# Show the project as C++ on GitHub (the engine source is private).
+README.md linguist-language=C++ linguist-detectable=true linguist-documentation=false
