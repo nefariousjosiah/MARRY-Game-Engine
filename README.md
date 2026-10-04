@@ -25,6 +25,12 @@ A 3D game engine written from scratch in **C++17 and OpenGL 3.3**, and a fixed-c
 
 Developed on macOS; the engine also builds on Windows and Linux.
 
+### Model import
+
+Low- and high-poly assets imported into the engine, from an 88-triangle key to a 10,767-triangle character. Every shot is drawn, lit, turned and captioned by the engine itself, with the triangle counts read from the loaded meshes.
+
+![Low- and high-poly models imported into the engine](media/model-import.gif)
+
 ---
 
 ## Project S
